@@ -26,4 +26,4 @@ const obj3 = {5:"a", 6: "b"}
 
  // If can also find that whether object has that property or not
 
- console.log(TinderUser.hasOwnProperty('isLogged'));  // True - means isLogged has isLogged property
+ console.log(TinderUser.hasOwnProperty('isLogged'));  // True - means TinderUser has isLogged property
